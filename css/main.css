@@ -1,4 +1,4 @@
-/* Global Styles */
+/* Global Styles */ /* The 2nd commit changes, will it work?*/
 body {
   font-family: 'Montserrat', sans-serif;
   line-height: 1.5;
@@ -264,4 +264,4 @@ footer img {
   .program p {
     flex-grow: 1;
   }
-}/* testing; I copied most of the changes, can I commit? */
+}
